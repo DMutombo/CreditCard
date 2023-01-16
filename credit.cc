@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 int main() {
     long card_number;
     std::string result = "";
