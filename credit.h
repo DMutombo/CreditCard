@@ -3,7 +3,6 @@
 
 #include <string>
 
-
 std::string DetermineCompany(long card_number);
 long GetDivisor(int length);
 std::string LuhnAlgorithm(long card_number);
